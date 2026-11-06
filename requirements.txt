@@ -1,0 +1,6 @@
+streamlit>=1.40
+tensorflow==2.15.1
+keras==2.15.0
+numpy<2
+Pillow
+paho-mqtt>=2.0
